@@ -1,0 +1,13 @@
+# 忽略 IDEA 配置文件，不纳入语言统计
+.idea/** linguist-generated=true
+*.iml linguist-generated=true
+*.ipr linguist-generated=true
+*.iws linguist-generated=true
+
+# 强制指定核心文件的语言类型
+*.java linguist-language=Java
+*.html linguist-language=HTML
+*.js linguist-language=JavaScript
+*.sql linguist-language=SQL
+*.yml linguist-language=YAML
+*.xml linguist-language=XML
