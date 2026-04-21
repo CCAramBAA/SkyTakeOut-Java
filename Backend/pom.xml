@@ -127,6 +127,12 @@
                 <version>2.7.3</version> <!-- 加上这一行 -->
             </dependency>
 
+            <dependency>
+                <groupId>org.apache.httpcomponents</groupId>
+                <artifactId>httpclient</artifactId>
+                <version>4.5.13</version>
+            </dependency>
+
 
             <!--微信支付-->
             <dependency>
