@@ -5,7 +5,7 @@
 *.class
 *Test.java
 **/test/
-**/application-dev.yml
+Backend/sky-server/src/main/resources/application-dev.yml
 
 # 前端 Nginx 忽略（新增这 3 行）
 **/logs/
