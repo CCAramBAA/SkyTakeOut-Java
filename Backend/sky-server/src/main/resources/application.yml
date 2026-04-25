@@ -26,6 +26,7 @@ mybatis:
   configuration:
     #开启驼峰命名
     map-underscore-to-camel-case: true
+    arg-name-based-constructor: true
 
 logging:
   level:
